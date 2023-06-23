@@ -20,8 +20,8 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
+| 1 |Text Mining DS             |   Analyses the most common keywords about Data Science on Wikipedia          | https://github.com/franchiseBoyz/TextMining       |
+| 2 |Califonia Housing Price Analysis             | A analysis and prediction of the prices of houses in Califonia             | https://github.com/franchiseBoyz/CalifoniaHousingAnalysis      |
 | 3 |  -             |  -             | https://       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
