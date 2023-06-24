@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |Text Mining DS             |   Analyses the most common keywords about Data Science and Analyst on Wikipedia          | https://github.com/franchiseBoyz/TextMining       |
+| 2 |Califonia Housing Price Analysis             | An analysis and prediction of the prices of houses in Califonia             | https://github.com/franchiseBoyz/CalifoniaHousingAnalysis      |
+| 3 | Plant Disease Classification            | A model that classifies if a plant is infected with a particular disease or not.             | https://github.com/franchiseBoyz/plant-disease-classification      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
